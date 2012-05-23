@@ -46,3 +46,4 @@ end
 
 newGame = Game.new(100, 50)
 100.times {newGame.generation}
+#fsdfs
